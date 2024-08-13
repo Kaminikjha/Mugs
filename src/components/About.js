@@ -33,11 +33,11 @@ const About = () => {
             similique earum dignissimos repellat vitae magni.
           </p>
 
-          <div className="flex justify-center items-center gap-7 pt-5 md:pr-10">
+          <div className="flex justify-center items-center gap-7 pt-5">
             
           
           <img
-            className=" object-cover sm:max-h-[500px] sm:max-w-[500px] sm:justify-between"
+            className=" object-cover  sm:justify-between"
             src={image2}
             alt="image"
           ></img>
