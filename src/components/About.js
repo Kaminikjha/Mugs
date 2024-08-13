@@ -33,7 +33,7 @@ const About = () => {
             similique earum dignissimos repellat vitae magni.
           </p>
 
-          <div className="flex justify-center items-center gap-7 pt-5">
+          <div className="flex justify-center items-center gap-7 pt-5 md:pr-10">
             
           
           <img

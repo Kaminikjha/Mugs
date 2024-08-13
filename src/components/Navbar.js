@@ -27,7 +27,7 @@ const Navbar = () => {
             />
           )}
 
-          <div className="hidden md:flex justify-end items-center w-full  gap-2">
+          <div className="hidden md:flex lg:flex justify-end items-center w-full  gap-2">
           <div className="flex flex-col">
             <ul className="flex justify-center items-center gap-3">
             <li>
