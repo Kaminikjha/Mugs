@@ -12,7 +12,7 @@ const About = () => {
    className="flex flex-col lg:flex-row justify-between items-center gap-4 w-full h-auto lg:h-screen">
     
 
-   <div className="relative  flex justify-center items-center w-1/2 px-3 sm:py-20 object-cover">
+   <div className="flex justify-center items-center w-1/2 px-3 sm:py-20 object-cover">
           <img
             className=" object-cover max-h-60 max-w-60 sm:max-h-[550px] sm:max-w-[550px] sm:justify-between"
             src={image7}

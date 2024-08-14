@@ -18,7 +18,7 @@ const Navbar = () => {
 
   return (
     <>
-      <section className="w-full bg-black text-white flex justify-between items-center py-6 lg:px-16">
+      <section className="w-full text-white flex justify-between items-center py-6 lg:px-16">
         <div className="w-full flex justify-between items-center h-14 mx-5 sm:p-3">
           <img
             className="object-cover max-h-32 max-w-32 sm:max-h-40 sm:max-w-40 sm:justify-between"
