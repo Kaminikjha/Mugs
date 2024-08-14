@@ -85,7 +85,7 @@ const Navbar = () => {
 
             <li>
               <a
-                className="text-sm text-slate-100 cursor-pointer rounded-sm px-3 py-2 bg-orange-600 text-white active:text-white"
+                className="text-sm text-slate-100 cursor-pointer rounded-sm px-3 py-2 bg-orange-600  active:text-white"
                 href="#"
               >
                 Download CV
@@ -161,6 +161,7 @@ const Navbar = () => {
               </li>
           </ul>
         </div>
+        
       </section>
     </>
   );
