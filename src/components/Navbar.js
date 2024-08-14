@@ -1,10 +1,21 @@
 import { IoMenu } from "react-icons/io5";
 import { FaXmark } from "react-icons/fa6";
 import logo from "../assets/logo.png";
-import React, { useState } from "react";
+import React, { useState,useEffect } from "react";
 
 const Navbar = () => {
   const [toggle, setToggle] = useState(false);
+    // disable background scrolling when mobile menu is active
+  
+    useEffect(() => {
+    
+      if (toggle) {
+        document.body.classList.add("overflow-y-hidden")
+      } else {
+        document.body.classList.remove("overflow-y-hidden")
+      }
+    })
+
   return (
     <>
       <section className="w-full bg-black text-white flex justify-between items-center py-6 lg:px-16">
