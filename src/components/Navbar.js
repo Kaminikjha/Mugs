@@ -122,7 +122,7 @@ const Navbar = () => {
             <li className=" p-3" >
                 <a
                   className="text-lg text-slate-100 cursor-pointer rounded-sm px-5 py-2 hover:bg-orange-600 hover:text-white active:text-white"
-                  href="#about me"
+                  href="/"
                 >
                   About Me
                 </a>
@@ -131,7 +131,7 @@ const Navbar = () => {
             <li className=" p-3 ">
               <a
                 className="text-lg text-slate-100 cursor-pointer rounded-sm px-5 py-2 hover:bg-orange-600 hover:text-white active:text-white"
-                href="#services"
+                href="/"
               >
                 Services
               </a>
@@ -140,7 +140,7 @@ const Navbar = () => {
             <li className=" p-3 ">
               <a
                 className="text-lg text-slate-100 cursor-pointer rounded-sm px-5 py-2 hover:bg-orange-600 hover:text-white active:text-white"
-                href="#projects"
+                href="/"
               >
                 Projects
               </a>
@@ -148,7 +148,7 @@ const Navbar = () => {
             <li className=" p-3" >
                 <a
                   className="text-lg text-slate-100 cursor-pointer rounded-sm px-5 py-2 hover:bg-orange-600 hover:text-white active:text-white"
-                  href="#testimonials"
+                  href="/"
                 >
                   Testimonials
                 </a>
@@ -157,7 +157,7 @@ const Navbar = () => {
             <li className=" p-3 ">
               <a
                 className="text-lg text-slate-100 cursor-pointer rounded-sm px-5 py-2 hover:bg-orange-600 hover:text-white active:text-white"
-                href="#contact"
+                href="/"
               >
                 Contact Us
               </a>
@@ -165,7 +165,7 @@ const Navbar = () => {
             <li className=" p-3" >
                 <a
                   className="text-lg text-slate-100 cursor-pointer rounded-sm px-5 py-2 hover:bg-orange-600  hover:text-white active:text-white"
-                  href="#download CV"
+                  href="/"
                 >
                   Download CV
                 </a>
